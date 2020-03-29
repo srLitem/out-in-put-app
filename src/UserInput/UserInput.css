@@ -1,0 +1,8 @@
+.Input {
+    width: 30%;
+    margin: 15px auto;
+    border: 1px solid rgb(27, 25, 25);
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
